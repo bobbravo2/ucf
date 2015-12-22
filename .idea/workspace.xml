@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7b5da72b-af12-45b7-9d72-c933f94eaca7" name="Default" comment="pass">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" />
+    <list default="true" id="7b5da72b-af12-45b7-9d72-c933f94eaca7" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson1/src/Person.js" afterPath="$PROJECT_DIR$/lesson1/src/Person.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson1/test/PersonTest.js" afterPath="$PROJECT_DIR$/lesson1/test/PersonTest.js" />
     </list>
     <ignored path="ucf.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -32,8 +30,8 @@
           <file leaf-file-name="Person.js" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/lesson1/src/Person.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.8292683">
-                  <caret line="22" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+                <state vertical-scroll-proportion="0.6938776">
+                  <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
                   <folding />
                 </state>
               </provider>
@@ -46,7 +44,7 @@
           <file leaf-file-name="PersonTest.js" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/lesson1/test/PersonTest.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.48056537">
+                <state vertical-scroll-proportion="0.7513812">
                   <caret line="23" column="3" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
                   <folding>
                     <element signature="e#0#47#0" expanded="false" />
@@ -88,8 +86,8 @@
         <option value="$PROJECT_DIR$/lesson1/src/person.js" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/lesson1/Person.jstd" />
-        <option value="$PROJECT_DIR$/lesson1/src/Person.js" />
         <option value="$PROJECT_DIR$/lesson1/test/PersonTest.js" />
+        <option value="$PROJECT_DIR$/lesson1/src/Person.js" />
       </list>
     </option>
   </component>
@@ -410,19 +408,16 @@
       <option name="project" value="LOCAL" />
       <updated>1450807707931</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="passing tests &amp; cs cleanup">
+      <created>1450807842486</created>
+      <option name="number" value="00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1450807842486</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Person_JSTD - 2015.12.22 at 12h 59m 18s.xml">
-      <configuration name="Person JSTD" configurationId="JsTestDriver-test-runner" />
-    </history-entry>
-    <history-entry file="Person_JSTD - 2015.12.22 at 12h 59m 47s.xml">
-      <configuration name="Person JSTD" configurationId="JsTestDriver-test-runner" />
-    </history-entry>
-    <history-entry file="Person_JSTD - 2015.12.22 at 13h 00m 18s.xml">
-      <configuration name="Person JSTD" configurationId="JsTestDriver-test-runner" />
-    </history-entry>
     <history-entry file="Person_JSTD - 2015.12.22 at 13h 00m 44s.xml">
       <configuration name="Person JSTD" configurationId="JsTestDriver-test-runner" />
     </history-entry>
@@ -444,6 +439,15 @@
     <history-entry file="Person_JSTD - 2015.12.22 at 13h 08m 22s.xml">
       <configuration name="Person JSTD" configurationId="JsTestDriver-test-runner" />
     </history-entry>
+    <history-entry file="Person_JSTD - 2015.12.22 at 13h 12m 30s.xml">
+      <configuration name="Person JSTD" configurationId="JsTestDriver-test-runner" />
+    </history-entry>
+    <history-entry file="Person_JSTD - 2015.12.22 at 13h 12m 52s.xml">
+      <configuration name="Person JSTD" configurationId="JsTestDriver-test-runner" />
+    </history-entry>
+    <history-entry file="Person_JSTD - 2015.12.22 at 13h 13m 24s.xml">
+      <configuration name="Person JSTD" configurationId="JsTestDriver-test-runner" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="4" y="23" width="1436" height="877" extended-state="0" />
@@ -452,13 +456,13 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32799146" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32866243" sideWeight="0.5028694" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Documentation" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14777619" sideWeight="0.3566879" order="2" side_tool="true" content_ui="tabs" x="104" y="122" width="1236" height="678" />
+      <window_info id="Documentation" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14777619" sideWeight="0.3593156" order="2" side_tool="true" content_ui="tabs" x="104" y="122" width="1236" height="678" />
       <window_info id="JsTestDriver Server" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299363" sideWeight="0.49713057" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299363" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3299363" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32866243" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14777619" sideWeight="0.6433121" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14777619" sideWeight="0.6406844" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292683" sideWeight="0.67105263" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2048611" sideWeight="0.67105263" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
@@ -514,7 +518,8 @@
     <MESSAGE value="setting name email tests pass" />
     <MESSAGE value="added test for invalid email exceptions" />
     <MESSAGE value="failing test with invalid constructor" />
-    <option name="LAST_COMMIT_MESSAGE" value="failing test with invalid constructor" />
+    <MESSAGE value="passing tests &amp; cs cleanup" />
+    <option name="LAST_COMMIT_MESSAGE" value="passing tests &amp; cs cleanup" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -541,21 +546,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson1/src/Person.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8292683">
-          <caret line="22" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lesson1/test/PersonTest.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.48056537">
+        <state vertical-scroll-proportion="0.7513812">
           <caret line="23" column="3" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
           <folding>
             <element signature="e#0#47#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson1/src/Person.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6938776">
+          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+          <folding />
         </state>
       </provider>
     </entry>
