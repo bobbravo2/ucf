@@ -15,10 +15,13 @@ TestCase("ShopPersonTest", {
     "test add item": function() {
         var item = new ShopItem('Broom', 9.99);
         this.ShopPerson.addItem(item);
+        assertArray('Items should be array', this.ShopPerson.getItems());
         assertEquals('No items added to basket', 1, this.ShopPerson.getItems().length);
+        assertEquals('Item is not identical', item, this.ShopPerson.getItems()[0]);
         var item2 = new ShopItem('Door', 99);
         this.ShopPerson.addItem(item);
-        assertEquals('No items added to basket', 2, this.ShopPerson.getItems().length);
+        assertEquals('2nd item not added to basket', 2, this.ShopPerson.getItems().length);
+        assertEquals('Item is not identical', item, this.ShopPerson.getItems()[1]);
     }
 });
 TestCase("ShopPersonItemTest", {
