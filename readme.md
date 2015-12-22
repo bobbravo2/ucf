@@ -1,3 +1,3 @@
 Demo Lesson Plan
 ========
-[Prototypes](https://github.com/bobbravo2/ucf/tree/master/lesson1)
+Lesson 1 - [Prototypes](https://github.com/bobbravo2/ucf/tree/master/lesson1)
