@@ -15,5 +15,8 @@ TestCase("PersonTest", {
 		assertException('Invalid email did not throw exception',function () {
 			new Person(name, email)
 		});
+	},
+	"test invalid constructor": function () {
+		new Person();
 	}
 });
