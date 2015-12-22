@@ -15,7 +15,7 @@ TestCase("ShopPersonTest", {
     "test add item": function() {
         var item = new ShopItem('Broom', 9.99)
         this.ShopPerson.addItem(item);
-        assertEquals('No items added to basket', 1, this.ShopPerson.getItems().length);
+        assertEquals('No items added to basket', 1, this.ShopPerson.getItems().lengthp);
     }
 });
 TestCase("ShopPersonItemTest", {

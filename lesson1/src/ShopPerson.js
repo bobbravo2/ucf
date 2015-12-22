@@ -7,15 +7,14 @@
 //Delete item from basket
 //View items -> Return a JSON object of items
 
-
 function ShopPerson(name, email) {
     Person.call(this, name, email);
 }
 ShopPerson.prototype.items = [];
-ShopPerson.prototype.addItem = function (item) {
+ShopPerson.prototype.addItem = function(item) {
     this.items.push(item);
 };
-ShopPerson.prototype.getItems = function () {
+ShopPerson.prototype.getItems = function() {
     return this.items;
 };
 //Item - a new JavaScript prototype to create, with properties:
