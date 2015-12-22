@@ -22,6 +22,10 @@ TestCase("ShopPersonTest", {
         this.ShopPerson.addItem(item);
         assertEquals('2nd item not added to basket', 2, this.ShopPerson.getItems().length);
         assertEquals('Item is not identical', item, this.ShopPerson.getItems()[1]);
+    }, "test delete items (empty cart)": function() {
+        var initialCount = this.ShopPerson.getItems().length;
+        this.ShopPerson.emptyCart();
+        assertNotEquals('Error emptying cart', initialCount, this.ShopPerson.getItems().length);
     }
 });
 TestCase("ShopPersonItemTest", {

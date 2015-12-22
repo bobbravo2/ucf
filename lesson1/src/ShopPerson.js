@@ -4,7 +4,8 @@
 //Case - We have a 3rd party Javascript Library: Person.js
 //We need to extend the prototype here to add shopping functionality
 //Add item to 'basket'
-//Delete item from basket
+//Delete item from basket by index
+//Empty cart (delete all)
 //View items -> Return an array of JSON items
 
 function ShopPerson(name, email) {
