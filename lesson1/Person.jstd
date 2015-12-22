@@ -1,0 +1,4 @@
+load:
+  - src/Person.js
+test:
+  - test/PersonTest.js
