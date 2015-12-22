@@ -9,9 +9,15 @@
 
 
 function ShopPerson(name, email) {
-    return new Person(name, email);
+    Person.call(this, name, email);
 }
-ShopPerson.prototype = Person;
+ShopPerson.prototype.items = [];
+ShopPerson.prototype.addItem = function (item) {
+    this.items.push(item);
+};
+ShopPerson.prototype.getItems = function () {
+    return this.items;
+};
 //Item - a new JavaScript prototype to create, with properties:
 // - Price
 // - Title
