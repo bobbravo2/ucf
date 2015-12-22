@@ -5,6 +5,7 @@
 
 
 function Person(name, email) {
-
+	this.name = name;
+	this.email = email;
 }
 
