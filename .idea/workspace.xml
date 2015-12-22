@@ -41,8 +41,8 @@
           <file leaf-file-name="ShopPerson.js" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/lesson1/src/ShopPerson.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.635514">
-                  <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+                <state vertical-scroll-proportion="0.55607474">
+                  <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
                   <folding>
                     <element signature="n#!!doc;n#ShopPerson#0" expanded="false" />
                   </folding>
@@ -81,8 +81,8 @@
           <file leaf-file-name="ShopPersonTest.js" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/lesson1/test/ShopPersonTest.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.272">
-                  <caret line="17" column="70" selection-start-line="17" selection-start-column="70" selection-end-line="17" selection-end-column="70" />
+                <state vertical-scroll-proportion="0.476">
+                  <caret line="20" column="50" selection-start-line="20" selection-start-column="50" selection-end-line="20" selection-end-column="50" />
                   <folding />
                 </state>
               </provider>
@@ -112,8 +112,8 @@
         <option value="$PROJECT_DIR$/lesson1/test/PersonTest.js" />
         <option value="$PROJECT_DIR$/lesson1/src/Person.js" />
         <option value="$PROJECT_DIR$/lesson1/ShopPerson.jstd" />
-        <option value="$PROJECT_DIR$/lesson1/test/ShopPersonTest.js" />
         <option value="$PROJECT_DIR$/lesson1/src/ShopPerson.js" />
+        <option value="$PROJECT_DIR$/lesson1/test/ShopPersonTest.js" />
       </list>
     </option>
   </component>
@@ -490,13 +490,16 @@
       <option name="project" value="LOCAL" />
       <updated>1450812402515</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="passing tests to addItem &amp; getItems from basket">
+      <created>1450812434344</created>
+      <option name="number" value="00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1450812434344</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ShopPerson_JSTD - 2015.12.22 at 14h 16m 24s.xml">
-      <configuration name="ShopPerson JSTD" configurationId="JsTestDriver-test-runner" />
-    </history-entry>
     <history-entry file="ShopPerson_JSTD - 2015.12.22 at 14h 16m 57s.xml">
       <configuration name="ShopPerson JSTD" configurationId="JsTestDriver-test-runner" />
     </history-entry>
@@ -524,6 +527,9 @@
     <history-entry file="ShopPerson_JSTD - 2015.12.22 at 14h 26m 38s.xml">
       <configuration name="ShopPerson JSTD" configurationId="JsTestDriver-test-runner" />
     </history-entry>
+    <history-entry file="ShopPerson_JSTD - 2015.12.22 at 14h 28m 29s.xml">
+      <configuration name="ShopPerson JSTD" configurationId="JsTestDriver-test-runner" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="4" y="23" width="1436" height="877" extended-state="0" />
@@ -535,7 +541,7 @@
       <window_info id="Documentation" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14777619" sideWeight="0.3592233" order="2" side_tool="true" content_ui="tabs" x="104" y="122" width="1236" height="678" />
       <window_info id="JsTestDriver Server" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34394905" sideWeight="0.5028694" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299363" sideWeight="0.49713057" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34394905" sideWeight="0.49713057" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34394905" sideWeight="0.49713057" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32866243" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14777619" sideWeight="0.6407767" order="1" side_tool="false" content_ui="tabs" />
@@ -601,7 +607,8 @@
     <MESSAGE value="added failing test case to extend our &quot;Person&quot; with a new &quot;ShopPerson&quot;" />
     <MESSAGE value="passing test for constructing a &quot;ShopPerson&quot;" />
     <MESSAGE value="failing test on adding item to ShopPerson" />
-    <option name="LAST_COMMIT_MESSAGE" value="failing test on adding item to ShopPerson" />
+    <MESSAGE value="passing tests to addItem &amp; getItems from basket" />
+    <option name="LAST_COMMIT_MESSAGE" value="passing tests to addItem &amp; getItems from basket" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -661,21 +668,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson1/test/ShopPersonTest.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.272">
-          <caret line="17" column="70" selection-start-line="17" selection-start-column="70" selection-end-line="17" selection-end-column="70" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lesson1/src/ShopPerson.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.635514">
-          <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+        <state vertical-scroll-proportion="0.55607474">
+          <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
           <folding>
             <element signature="n#!!doc;n#ShopPerson#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson1/test/ShopPersonTest.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.476">
+          <caret line="20" column="50" selection-start-line="20" selection-start-column="50" selection-end-line="20" selection-end-column="50" />
+          <folding />
         </state>
       </provider>
     </entry>

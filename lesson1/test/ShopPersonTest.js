@@ -13,9 +13,12 @@ TestCase("ShopPersonTest", {
         assertEquals('Error setting email', this.email, this.ShopPerson.email);
     },
     "test add item": function() {
-        var item = new ShopItem('Broom', 9.99)
+        var item = new ShopItem('Broom', 9.99);
         this.ShopPerson.addItem(item);
-        assertEquals('No items added to basket', 1, this.ShopPerson.getItems().lengthp);
+        assertEquals('No items added to basket', 1, this.ShopPerson.getItems().length);
+        var item2 = new ShopItem('Door', 99);
+        this.ShopPerson.addItem(item);
+        assertEquals('No items added to basket', 2, this.ShopPerson.getItems().length);
     }
 });
 TestCase("ShopPersonItemTest", {

@@ -5,7 +5,7 @@
 //We need to extend the prototype here to add shopping functionality
 //Add item to 'basket'
 //Delete item from basket
-//View items -> Return a JSON object of items
+//View items -> Return an array of JSON items
 
 function ShopPerson(name, email) {
     Person.call(this, name, email);
