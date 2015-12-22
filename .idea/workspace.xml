@@ -41,8 +41,8 @@
           <file leaf-file-name="ShopPerson.js" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/lesson1/src/ShopPerson.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.2">
-                  <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+                <state vertical-scroll-proportion="0.7234042">
+                  <caret line="24" column="35" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
                   <folding>
                     <element signature="n#!!doc;n#ShopPerson#0" expanded="false" />
                   </folding>
@@ -81,8 +81,8 @@
           <file leaf-file-name="ShopPersonTest.js" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/lesson1/test/ShopPersonTest.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.12944162">
-                  <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+                <state vertical-scroll-proportion="0.675841">
+                  <caret line="29" column="104" selection-start-line="29" selection-start-column="104" selection-end-line="29" selection-end-column="104" />
                   <folding />
                 </state>
               </provider>
@@ -520,19 +520,16 @@
       <option name="project" value="LOCAL" />
       <updated>1450812852650</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="unified naming of basket -&gt; cart">
+      <created>1450812912985</created>
+      <option name="number" value="00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1450812912985</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ShopPerson_JSTD - 2015.12.22 at 14h 25m 24s.xml">
-      <configuration name="ShopPerson JSTD" configurationId="JsTestDriver-test-runner" />
-    </history-entry>
-    <history-entry file="ShopPerson_JSTD - 2015.12.22 at 14h 26m 08s.xml">
-      <configuration name="ShopPerson JSTD" configurationId="JsTestDriver-test-runner" />
-    </history-entry>
-    <history-entry file="ShopPerson_JSTD - 2015.12.22 at 14h 26m 27s.xml">
-      <configuration name="ShopPerson JSTD" configurationId="JsTestDriver-test-runner" />
-    </history-entry>
     <history-entry file="ShopPerson_JSTD - 2015.12.22 at 14h 26m 38s.xml">
       <configuration name="ShopPerson JSTD" configurationId="JsTestDriver-test-runner" />
     </history-entry>
@@ -554,6 +551,15 @@
     <history-entry file="ShopPerson_JSTD - 2015.12.22 at 14h 34m 03s.xml">
       <configuration name="ShopPerson JSTD" configurationId="JsTestDriver-test-runner" />
     </history-entry>
+    <history-entry file="ShopPerson_JSTD - 2015.12.22 at 14h 36m 35s.xml">
+      <configuration name="ShopPerson JSTD" configurationId="JsTestDriver-test-runner" />
+    </history-entry>
+    <history-entry file="ShopPerson_JSTD - 2015.12.22 at 14h 37m 45s.xml">
+      <configuration name="ShopPerson JSTD" configurationId="JsTestDriver-test-runner" />
+    </history-entry>
+    <history-entry file="ShopPerson_JSTD - 2015.12.22 at 14h 38m 31s.xml">
+      <configuration name="ShopPerson JSTD" configurationId="JsTestDriver-test-runner" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="4" y="23" width="1436" height="877" extended-state="0" />
@@ -565,7 +571,7 @@
       <window_info id="Documentation" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14777619" sideWeight="0.3592233" order="2" side_tool="true" content_ui="tabs" x="104" y="122" width="1236" height="678" />
       <window_info id="JsTestDriver Server" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34394905" sideWeight="0.5028694" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299363" sideWeight="0.49713057" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15923567" sideWeight="0.49713057" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15923567" sideWeight="0.49713057" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32866243" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14777619" sideWeight="0.6407767" order="1" side_tool="false" content_ui="tabs" />
@@ -636,17 +642,11 @@
     <MESSAGE value="added additional assertions to shopItems test" />
     <MESSAGE value="empty cart failing test" />
     <MESSAGE value="passing test for emptyCart" />
-    <option name="LAST_COMMIT_MESSAGE" value="passing test for emptyCart" />
+    <MESSAGE value="unified naming of basket -&gt; cart" />
+    <option name="LAST_COMMIT_MESSAGE" value="unified naming of basket -&gt; cart" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/lesson1/test/ShopPersonTest.js</url>
-          <line>16</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
       <option name="time" value="2" />
     </breakpoint-manager>
     <watches-manager />
@@ -698,8 +698,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lesson1/src/ShopPerson.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2">
-          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+        <state vertical-scroll-proportion="0.7234042">
+          <caret line="24" column="35" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
           <folding>
             <element signature="n#!!doc;n#ShopPerson#0" expanded="false" />
           </folding>
@@ -708,8 +708,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lesson1/test/ShopPersonTest.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.12944162">
-          <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+        <state vertical-scroll-proportion="0.675841">
+          <caret line="29" column="104" selection-start-line="29" selection-start-column="104" selection-end-line="29" selection-end-column="104" />
           <folding />
         </state>
       </provider>

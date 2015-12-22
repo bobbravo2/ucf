@@ -21,6 +21,9 @@ ShopPerson.prototype.getItems = function() {
 ShopPerson.prototype.emptyCart = function () {
     this.items = [];
 };
+ShopPerson.prototype.deleteItem = function (item_index) {
+  this.items.splice(item_index, 1);
+};
 //Item - a new JavaScript prototype to create, with properties:
 // - Price
 // - Title

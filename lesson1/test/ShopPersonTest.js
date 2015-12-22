@@ -22,7 +22,14 @@ TestCase("ShopPersonTest", {
         this.ShopPerson.addItem(item);
         assertEquals('2nd item not added to cart', 2, this.ShopPerson.getItems().length);
         assertEquals('Item is not identical', item, this.ShopPerson.getItems()[1]);
-    }, "test delete items (empty cart)": function() {
+    },
+    "test delete single item from cart": function() {
+        var initialCount = this.ShopPerson.getItems().length;
+        this.ShopPerson.deleteItem(0);
+        assertNotEquals('Error removing item from cart', initialCount, this.ShopPerson.getItems().length);
+        assertEquals('Count should be initial - 1', initialCount - 1, this.ShopPerson.getItems().length);
+    },
+    "test delete items (empty cart)": function() {
         var initialCount = this.ShopPerson.getItems().length;
         this.ShopPerson.emptyCart();
         assertNotEquals('Error emptying cart', initialCount, this.ShopPerson.getItems().length);
