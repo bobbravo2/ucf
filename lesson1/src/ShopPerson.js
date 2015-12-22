@@ -6,11 +6,16 @@
 //Add item to 'basket'
 //Delete item from basket
 //View items -> Return a JSON object of items
-//Item - a new JavaScript prototype to create, with properties:
-// - Price
-// - Title
+
 
 function ShopPerson(name, email) {
     return new Person(name, email);
 }
 ShopPerson.prototype = Person;
+//Item - a new JavaScript prototype to create, with properties:
+// - Price
+// - Title
+function ShopItem(title, price) {
+    this.title = title;
+    this.price = price;
+}
