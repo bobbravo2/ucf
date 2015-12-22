@@ -18,6 +18,9 @@ ShopPerson.prototype.addItem = function(item) {
 ShopPerson.prototype.getItems = function() {
     return this.items;
 };
+ShopPerson.prototype.emptyCart = function () {
+    this.items = [];
+};
 //Item - a new JavaScript prototype to create, with properties:
 // - Price
 // - Title

@@ -4,7 +4,6 @@
     <list default="true" id="7b5da72b-af12-45b7-9d72-c933f94eaca7" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson1/src/ShopPerson.js" afterPath="$PROJECT_DIR$/lesson1/src/ShopPerson.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson1/test/ShopPersonTest.js" afterPath="$PROJECT_DIR$/lesson1/test/ShopPersonTest.js" />
     </list>
     <ignored path="ucf.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -41,8 +40,8 @@
           <file leaf-file-name="ShopPerson.js" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/lesson1/src/ShopPerson.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.24113475">
-                  <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+                <state vertical-scroll-proportion="0.7234042">
+                  <caret line="22" column="2" selection-start-line="22" selection-start-column="2" selection-end-line="22" selection-end-column="2" />
                   <folding>
                     <element signature="n#!!doc;n#ShopPerson#0" expanded="false" />
                   </folding>
@@ -112,8 +111,8 @@
         <option value="$PROJECT_DIR$/lesson1/test/PersonTest.js" />
         <option value="$PROJECT_DIR$/lesson1/src/Person.js" />
         <option value="$PROJECT_DIR$/lesson1/ShopPerson.jstd" />
-        <option value="$PROJECT_DIR$/lesson1/src/ShopPerson.js" />
         <option value="$PROJECT_DIR$/lesson1/test/ShopPersonTest.js" />
+        <option value="$PROJECT_DIR$/lesson1/src/ShopPerson.js" />
       </list>
     </option>
   </component>
@@ -508,13 +507,16 @@
       <option name="project" value="LOCAL" />
       <updated>1450812673158</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="empty cart failing test">
+      <created>1450812787493</created>
+      <option name="number" value="00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1450812787493</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ShopPerson_JSTD - 2015.12.22 at 14h 25m 13s.xml">
-      <configuration name="ShopPerson JSTD" configurationId="JsTestDriver-test-runner" />
-    </history-entry>
     <history-entry file="ShopPerson_JSTD - 2015.12.22 at 14h 25m 24s.xml">
       <configuration name="ShopPerson JSTD" configurationId="JsTestDriver-test-runner" />
     </history-entry>
@@ -540,6 +542,9 @@
       <configuration name="ShopPerson JSTD" configurationId="JsTestDriver-test-runner" />
     </history-entry>
     <history-entry file="ShopPerson_JSTD - 2015.12.22 at 14h 32m 56s.xml">
+      <configuration name="ShopPerson JSTD" configurationId="JsTestDriver-test-runner" />
+    </history-entry>
+    <history-entry file="ShopPerson_JSTD - 2015.12.22 at 14h 34m 03s.xml">
       <configuration name="ShopPerson JSTD" configurationId="JsTestDriver-test-runner" />
     </history-entry>
   </component>
@@ -622,7 +627,8 @@
     <MESSAGE value="passing tests to addItem &amp; getItems from basket" />
     <MESSAGE value="adding 2 items to basket" />
     <MESSAGE value="added additional assertions to shopItems test" />
-    <option name="LAST_COMMIT_MESSAGE" value="added additional assertions to shopItems test" />
+    <MESSAGE value="empty cart failing test" />
+    <option name="LAST_COMMIT_MESSAGE" value="empty cart failing test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -682,21 +688,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson1/src/ShopPerson.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.24113475">
-          <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
-          <folding>
-            <element signature="n#!!doc;n#ShopPerson#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lesson1/test/ShopPersonTest.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.57186544">
           <caret line="23" column="59" selection-start-line="23" selection-start-column="59" selection-end-line="23" selection-end-column="59" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson1/src/ShopPerson.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7234042">
+          <caret line="22" column="2" selection-start-line="22" selection-start-column="2" selection-end-line="22" selection-end-column="2" />
+          <folding>
+            <element signature="n#!!doc;n#ShopPerson#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
