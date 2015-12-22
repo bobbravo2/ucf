@@ -9,3 +9,8 @@
 //Item - a new JavaScript prototype to create, with properties:
 // - Price
 // - Title
+
+function ShopPerson(name, email) {
+    return new Person(name, email);
+}
+ShopPerson.prototype = Person;
