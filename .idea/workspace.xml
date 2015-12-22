@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7b5da72b-af12-45b7-9d72-c933f94eaca7" name="Default" comment="added test for invalid email exceptions">
+    <list default="true" id="7b5da72b-af12-45b7-9d72-c933f94eaca7" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson1/src/Person.js" afterPath="$PROJECT_DIR$/lesson1/src/Person.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson1/test/PersonTest.js" afterPath="$PROJECT_DIR$/lesson1/test/PersonTest.js" />
@@ -31,8 +31,8 @@
           <file leaf-file-name="Person.js" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/lesson1/src/Person.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.6938776">
-                  <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+                <state vertical-scroll-proportion="0.4047619">
+                  <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
                   <folding />
                 </state>
               </provider>
@@ -45,8 +45,8 @@
           <file leaf-file-name="PersonTest.js" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/lesson1/test/PersonTest.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.28176796">
-                  <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+                <state vertical-scroll-proportion="0.7513812">
+                  <caret line="22" column="3" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
                   <folding>
                     <element signature="e#0#47#0" expanded="false" />
                   </folding>
@@ -315,16 +315,16 @@
       <option name="project" value="LOCAL" />
       <updated>1450807379370</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="failing test with invalid constructor">
+      <created>1450807620001</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1450807620001</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Person_JSTD - 2015.12.22 at 12h 50m 35s.xml">
-      <configuration name="Person JSTD" configurationId="JsTestDriver-test-runner" />
-    </history-entry>
-    <history-entry file="Person_JSTD - 2015.12.22 at 12h 51m 14s.xml">
-      <configuration name="Person JSTD" configurationId="JsTestDriver-test-runner" />
-    </history-entry>
     <history-entry file="Person_JSTD - 2015.12.22 at 12h 59m 18s.xml">
       <configuration name="Person JSTD" configurationId="JsTestDriver-test-runner" />
     </history-entry>
@@ -347,6 +347,12 @@
       <configuration name="Person JSTD" configurationId="JsTestDriver-test-runner" />
     </history-entry>
     <history-entry file="Person_JSTD - 2015.12.22 at 13h 06m 34s.xml">
+      <configuration name="Person JSTD" configurationId="JsTestDriver-test-runner" />
+    </history-entry>
+    <history-entry file="Person_JSTD - 2015.12.22 at 13h 07m 42s.xml">
+      <configuration name="Person JSTD" configurationId="JsTestDriver-test-runner" />
+    </history-entry>
+    <history-entry file="Person_JSTD - 2015.12.22 at 13h 08m 22s.xml">
       <configuration name="Person JSTD" configurationId="JsTestDriver-test-runner" />
     </history-entry>
   </component>
@@ -410,7 +416,8 @@
     <MESSAGE value="working JSTD implementation &amp; failing name assert" />
     <MESSAGE value="setting name email tests pass" />
     <MESSAGE value="added test for invalid email exceptions" />
-    <option name="LAST_COMMIT_MESSAGE" value="added test for invalid email exceptions" />
+    <MESSAGE value="failing test with invalid constructor" />
+    <option name="LAST_COMMIT_MESSAGE" value="failing test with invalid constructor" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -439,16 +446,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lesson1/src/Person.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6938776">
-          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+        <state vertical-scroll-proportion="0.4047619">
+          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lesson1/test/PersonTest.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.28176796">
-          <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+        <state vertical-scroll-proportion="0.7513812">
+          <caret line="22" column="3" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
           <folding>
             <element signature="e#0#47#0" expanded="false" />
           </folding>
