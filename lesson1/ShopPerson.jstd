@@ -1,0 +1,5 @@
+load:
+  - src/Person.js
+  - src/ShopPerson.js
+test:
+  - test/ShopPersonTest.js
