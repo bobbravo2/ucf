@@ -9,6 +9,7 @@ TestCase("ShopPersonTest", {
     },
     "test valid constructor": function() {
         //A sanity test to make sure we've extended the right prototype
+
         assertEquals('Error setting name', this.name, this.ShopPerson.name);
         assertEquals('Error setting email', this.email, this.ShopPerson.email);
     },
